@@ -1,0 +1,28 @@
+{
+  "name": "musical-octo-waddle",
+  "version": "1.0.0",
+  "description": "Just node.js application with `mongodb` library and `jest`. The purpose is to practice writing tests.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jest": "^26.1.0",
+    "mongodb": "^3.5.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j0sephh123/musical-octo-waddle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j0sephh123/musical-octo-waddle/issues"
+  },
+  "homepage": "https://github.com/j0sephh123/musical-octo-waddle#readme"
+}
